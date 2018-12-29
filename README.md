@@ -28,9 +28,9 @@ of the *trajectory_classification* repository has to be executed before to run t
  2. `generation_destination_prediction.py`: Run the final destination prediction method described in [1]. Save the necessary data in order to produce the figure.
  3. `figure.py`: Produce the following png file :
  
-![Caltrain classification](https://raw.githubusercontent.com/bguillouet/trajectory_classification/master/plot/compare_method_caltrain.png)
+![Caltrain classification](https://github.com/bguillouet/destination_prediction/blob/master/plot/compare_method_caltrain.png)
 
-![Sao Bento classification](https://raw.githubusercontent.com/bguillouet/trajectory_classification/master/plot/compare_method_saobento.png)
+![Sao Bento classification](https://github.com/bguillouet/destination_prediction/blob/master/plot/compare_method_saobento.png)
 
  
 
